@@ -1,13 +1,16 @@
 #contenedor
 {
+  margin: 10px;
   background-color: antiquewhite;
 }
 #cabecera
 {
+  margin: 10px;
    background-color: aquamarine;
 }
 #Barravinc
 {
+  margin: 10px;
     float: left;
     height: 100%;
     width: 30%;
@@ -15,6 +18,7 @@
 }
 #contenido
 {
+  margin: 10px;
     float: right;
     height: 100%;
     width: 70%;
