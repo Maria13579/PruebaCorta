@@ -10,20 +10,22 @@
 {
     float: left;
     height: 100%;
-    width: 40%;
+    width: 30%;
   background-color: deeppink;
 }
 #contenido
 {
-    float: right;
-    height: 100%;
-    width: 60%;
+    
   background-color: indigo;
 }
 #cuadroimg
 {
+    
+  background-color: khaki;
+}
+#contenedorizq
+{
     float: right;
     height: 100%;
-    width: 60%;
-  background-color: khaki;
+    width: 70%;
 }
