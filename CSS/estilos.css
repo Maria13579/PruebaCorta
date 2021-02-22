@@ -1,20 +1,29 @@
 #contenedor
 {
-
+  background-color: antiquewhite;
 }
 #cabecera
 {
-
+   background-color: aquamarine;
 }
 #Barravinc
 {
-
+    float: left;
+    height: 100%;
+    width: 40%;
+  background-color: deeppink;
 }
 #contenido
 {
-
+    float: right;
+    height: 100%;
+    width: 60%;
+  background-color: indigo;
 }
 #cuadroimg
 {
-    
+    float: right;
+    height: 100%;
+    width: 60%;
+  background-color: khaki;
 }
